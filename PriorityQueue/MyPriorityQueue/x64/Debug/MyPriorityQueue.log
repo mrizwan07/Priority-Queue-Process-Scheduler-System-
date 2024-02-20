@@ -1,0 +1,62 @@
+﻿  main.cpp
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(59,11): error C2955: 'Bhistory': use of class template requires template argument list
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(5,1): message : see declaration of 'Bhistory'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(59,11): error C2133: 'q1': unknown size
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(59,11): error C2512: 'Bhistory': no appropriate default constructor available
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(5,1): message : see declaration of 'Bhistory'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(60,4): error C2660: 'Bhistory<T>::forward': function does not take 0 arguments
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(12,7): message : see declaration of 'Bhistory<T>::forward'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(60,4): message : while trying to match the argument list '()'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(61,4): error C2660: 'Bhistory<T>::forward': function does not take 0 arguments
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(12,7): message : see declaration of 'Bhistory<T>::forward'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(61,4): message : while trying to match the argument list '()'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(62,4): error C2660: 'Bhistory<T>::forward': function does not take 0 arguments
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(12,7): message : see declaration of 'Bhistory<T>::forward'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(62,4): message : while trying to match the argument list '()'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(63,4): error C2660: 'Bhistory<T>::forward': function does not take 0 arguments
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(12,7): message : see declaration of 'Bhistory<T>::forward'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(63,4): message : while trying to match the argument list '()'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(64,4): error C2660: 'Bhistory<T>::forward': function does not take 0 arguments
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(12,7): message : see declaration of 'Bhistory<T>::forward'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(64,4): message : while trying to match the argument list '()'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(65,4): error C2660: 'Bhistory<T>::forward': function does not take 0 arguments
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(12,7): message : see declaration of 'Bhistory<T>::forward'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(65,4): message : while trying to match the argument list '()'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(66,4): error C2660: 'Bhistory<T>::forward': function does not take 0 arguments
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(12,7): message : see declaration of 'Bhistory<T>::forward'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(66,4): message : while trying to match the argument list '()'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(67,4): error C2662: 'void Bhistory<T>::display(void)': cannot convert 'this' pointer from 'Bhistory' to 'Bhistory<T> &'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(67,2): message : Reason: cannot convert from 'Bhistory' to 'Bhistory<T>'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(67,2): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(44,7): message : see declaration of 'Bhistory<T>::display'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(67,4): message : while trying to match the argument list '()'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(68,4): error C2662: 'void Bhistory<T>::back(void)': cannot convert 'this' pointer from 'Bhistory' to 'Bhistory<T> &'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(68,2): message : Reason: cannot convert from 'Bhistory' to 'Bhistory<T>'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(68,2): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(26,7): message : see declaration of 'Bhistory<T>::back'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(68,4): message : while trying to match the argument list '()'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(69,4): error C2662: 'void Bhistory<T>::back(void)': cannot convert 'this' pointer from 'Bhistory' to 'Bhistory<T> &'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(69,2): message : Reason: cannot convert from 'Bhistory' to 'Bhistory<T>'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(69,2): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(26,7): message : see declaration of 'Bhistory<T>::back'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(69,4): message : while trying to match the argument list '()'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(70,4): error C2662: 'void Bhistory<T>::back(void)': cannot convert 'this' pointer from 'Bhistory' to 'Bhistory<T> &'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(70,2): message : Reason: cannot convert from 'Bhistory' to 'Bhistory<T>'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(70,2): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(26,7): message : see declaration of 'Bhistory<T>::back'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(70,4): message : while trying to match the argument list '()'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(71,4): error C2662: 'void Bhistory<T>::back(void)': cannot convert 'this' pointer from 'Bhistory' to 'Bhistory<T> &'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(71,2): message : Reason: cannot convert from 'Bhistory' to 'Bhistory<T>'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(71,2): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(26,7): message : see declaration of 'Bhistory<T>::back'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(71,4): message : while trying to match the argument list '()'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(72,4): error C2662: 'void Bhistory<T>::back(void)': cannot convert 'this' pointer from 'Bhistory' to 'Bhistory<T> &'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(72,2): message : Reason: cannot convert from 'Bhistory' to 'Bhistory<T>'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(72,2): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(26,7): message : see declaration of 'Bhistory<T>::back'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(72,4): message : while trying to match the argument list '()'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(73,4): error C2662: 'void Bhistory<T>::display(void)': cannot convert 'this' pointer from 'Bhistory' to 'Bhistory<T> &'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(73,2): message : Reason: cannot convert from 'Bhistory' to 'Bhistory<T>'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(73,2): message : Conversion requires a second user-defined-conversion operator or constructor
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(44,7): message : see declaration of 'Bhistory<T>::display'
+C:\Users\Rizwan\Documents\Fifth Semester\DSA\Labs Solutions\MyPriorityQueue\MyPriorityQueue\main.cpp(73,4): message : while trying to match the argument list '()'
